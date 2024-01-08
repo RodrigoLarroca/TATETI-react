@@ -4,3 +4,4 @@
 * Cantidad de juegos y estadisticas por jugador
 * Modo vs IA
 * Tablero mas personalizado
+![](https://github.com/RodrigoLarroca/TATETI-react/blob/main/779shots_so.png)
