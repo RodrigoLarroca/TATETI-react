@@ -5,3 +5,4 @@
 * Modo vs IA
 * Tablero mas personalizado
 ![](https://github.com/RodrigoLarroca/TATETI-react/blob/main/779shots_so.png)
+![](https://github.com/RodrigoLarroca/TATETI-react/blob/main/442shots_so%20(1).png)
